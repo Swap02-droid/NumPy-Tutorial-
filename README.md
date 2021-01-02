@@ -1,2 +1,2 @@
 # NumPy-Tutorial-
-what is an Array? array is a data structure that store values with same datatype
+NumPy is a general-porpuse array-proccesing pakage. it provide a multidimentional array object and tools working these arra. it is a fundamental pakege of scintific computing with python
